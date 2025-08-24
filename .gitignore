@@ -1,21 +1,17 @@
-# Python cache
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*$py.class
 
-# Virtual environments
-.venv/
+# Virtual environment
 venv/
-env/
+.env/
 
-# Mypy / pytest / coverage caches
-.mypy_cache/
+# Pytest cache
 .pytest_cache/
-.coverage
-htmlcov/
 
-# IDEs
+# VS Code settings
 .vscode/
-.idea/
 
-# Docker logs
+# Docker files (optional)
 *.log
